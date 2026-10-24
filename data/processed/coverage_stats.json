@@ -1,0 +1,14 @@
+{
+  "total_cells": 56,
+  "tier_counts": {
+    "C": 25,
+    "B": 19,
+    "A": 8,
+    "D": 4
+  },
+  "abc_cells": 52,
+  "abc_frac": 0.9285714285714286,
+  "quant_cells": 10,
+  "bodies_with_ge4_evaluable": 8,
+  "gate": "GO"
+}

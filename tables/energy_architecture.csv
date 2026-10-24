@@ -1,0 +1,9 @@
+body,primordial,radiogenic,tidal,stellar,age,mass,architecture,dom_driver
+Earth,27000000000000.0,20000000000000.0,3700000000000.0,1.74e+17,4.54,5.972e+24,radiogenic+primordial (mixed internal)+stellar,radiogenic+primordial
+Venus,,,,1.28e+17,4.54,4.867e+24,internal (poorly constrained)+strong stellar,internal+stellar
+Mars,,,,2.33e+16,4.5,6.417e+23,internal (declining)+stellar,internal (declining)
+Moon,,,,6000000000000000.0,4.51,7.346e+22,relict internal+tidal,relict internal+tidal
+Mercury,,,,2.4e+16,4.5,3.301e+23,internal (dynamo persists)+strong stellar,internal (dynamo persists)
+Io,,,100000000000000.0,220000000000000.0,4.5,8.932e+22,tidal-dominated,tidal
+Europa,,,,130000000000000.0,4.5,4.8e+22,tidal+relict internal,tidal+internal
+Titan,,,,350000000000000.0,4.5,1.345e+23,stellar-atmospheric+internal ocean,stellar-atmospheric

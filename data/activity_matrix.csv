@@ -1,0 +1,9 @@
+body,E1,E2,E3,E4,E5,E6,E7
+Earth,direct_active,direct_active,direct_active,direct_active,direct_active,direct_active,direct_active
+Venus,probable_active,probable_active,residual,structurally_absent,probable_active,direct_active,probable_active
+Mars,probable_active,direct_active,direct_active,probable_active,direct_active,direct_active,residual
+Moon,none_detected,residual,residual,structurally_absent,none_detected,direct_active,residual
+Mercury,none_detected,probable_active,residual,structurally_absent,residual,direct_active,residual
+Io,direct_active,direct_active,direct_active,probable_active,direct_active,direct_active,residual
+Europa,probable_active,probable_active,probable_active,probable_active,probable_active,probable_active,probable_active
+Titan,probable_active,probable_active,direct_active,probable_active,direct_active,direct_active,direct_active

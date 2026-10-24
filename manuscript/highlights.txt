@@ -1,0 +1,5 @@
+- Common seven-reservoir ontology applied to eight planetary bodies (93% coverage)
+- Dominant activity gradient, but ~44% of ordination variance lies off-axis
+- Mars and Mercury shut down subsystems asynchronously, not as whole bodies
+- Process counts uncorrelated with age (rho -0.18) or mass (rho 0.22); n=8
+- Tidal, radiogenic, and stellar energy sources yield distinct architectures
